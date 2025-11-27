@@ -1,0 +1,48 @@
+# ---------------------------------
+# OS & Editor Junk Files
+# ---------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PHPStorm / JetBrains
+.idea/
+
+# ---------------------------------
+# Environment & Sensitive Files
+# ---------------------------------
+.env
+.env.local
+*.env.*
+
+# ---------------------------------
+# Uploads / User-generated content
+# ---------------------------------
+uploads/
+pictures/
+files/
+
+# Cache folders
+cache/
+tmp/
+
+# ---------------------------------
+# Backup files
+# ---------------------------------
+*.bak
+*.backup
+*.old
+*.save
+*.swp
+*.swo
+*~
+
+# ---------------------------------
+# Misc
+# ---------------------------------
+logs/
+sessions/
